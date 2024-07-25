@@ -1,0 +1,13 @@
+- title: Notebook 1
+  description: Example of opening a notebook in dashboard mode without Voila
+  source: notebook1.ipynb
+  cwd: not used
+  type: notebook
+  catalog: Notebook catalog
+
+- title: Notebook 2
+  description: Example of opening a notebook in dashboard mode without Voila
+  source: notebook2.ipynb
+  cwd: not used
+  type: notebook
+  catalog: Notebook catalog
